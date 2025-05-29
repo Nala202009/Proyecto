@@ -1,4 +1,4 @@
-package org.acme.dto;
+package fca.suayed.dto;
 
 public class ClientDto {
     public Long id;
