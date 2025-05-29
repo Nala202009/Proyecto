@@ -7,7 +7,7 @@ public class ClientDto {
     private String apellidoMaterno;
     private String rfc;
 
-    // Getters y setters
+     public ClientDto() {}
 
     public Long getId() {
         return id;
