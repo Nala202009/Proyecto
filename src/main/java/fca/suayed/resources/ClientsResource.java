@@ -1,7 +1,7 @@
 package resources;
 
-import dto.ClientDto;
-import dto.ResponseDto;
+import fca.suayed.dto.ClientDto;
+import fca.suayed.dto.ResponseDto;
 import fca.suayed.dal.StoreDal;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
